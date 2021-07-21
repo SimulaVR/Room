@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/ceiling_lamp.obj-d6c7f778e773756e96490db00e7eb53a.mesh"
+
+[deps]
+
+files=[ "res://.import/ceiling_lamp.obj-d6c7f778e773756e96490db00e7eb53a.mesh" ]
+
+source_file="res://scenes/Room/Room/entities/Ceiling_Lamp/ceiling_lamp.obj"
+dest_files=[ "res://.import/ceiling_lamp.obj-d6c7f778e773756e96490db00e7eb53a.mesh", "res://.import/ceiling_lamp.obj-d6c7f778e773756e96490db00e7eb53a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 0.05, 0.05, 0.05 )
+optimize_mesh=true
